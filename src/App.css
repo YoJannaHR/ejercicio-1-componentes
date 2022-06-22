@@ -1,0 +1,46 @@
+.App {
+  /* text-align: center; */
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   
+   height: 100vh;
+   flex-wrap:wrap;
+   gap: 10px;
+
+
+}
+
+.bg_verde{
+  background-color: rgb(167, 243, 173);
+
+}
+
+.bg_rojo{
+  background-color: rgb(216, 160, 160);
+
+}
+.bg_azul{
+  background-color: aqua;
+
+}
+
+.bg_naranja{
+  background-color: rgb(243, 121, 65);
+}
+.bg_amarillo{
+  background-color: rgb(243, 245, 110);
+
+}
+
+.card{
+ 
+ 
+  color:rgb(255, 255, 255);
+  width: 400px;
+  height: 200px;
+  padding: 20px;
+  box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.377);
+  border-radius: 20px;  
+ }
+
